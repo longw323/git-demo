@@ -5,8 +5,5 @@
 <title>Title</title>
 </head>
 <body>
-
-<div>hello world</div>
-
 </body>
 </html>
